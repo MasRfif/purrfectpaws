@@ -101,19 +101,6 @@ export default function Desc() {
         <section>
           <Testimony />
         </section>
-        <section className="location w-full h-full py-10">
-          <div className="max-w-lg font-cousine me-0 text-center md:text-start md:me-auto md:mx-20 mb-2">
-            <h1 className="text-2xl md:text-3xl font-bold ">
-              Our <span className="text-third">Location</span>
-            </h1>
-          </div>
-          <iframe
-            width="1440"
-            height="400"
-            className="w-full"
-            id="gmap_canvas"
-            src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=taman%20sari%201%20nomor%2026%20b%20lebakbulus%20Jakarta%20selatan+(Purfectpaws)&amp;t=k&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
-        </section>
       </Provider>
     </>
   );
