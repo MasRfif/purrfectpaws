@@ -14,7 +14,7 @@ export default function Desc() {
           <div className="carousel w-full h-96 rounded-3xl ">
             <div id="item1" className="carousel-item w-full">
               <Image
-                src="https://images.unsplash.com/photo-1712075828221-2362a4d069e6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="/Home1.avif"
                 alt="Carousel Image 1"
                 className="w-full object-cover"
                 width={4500}
@@ -23,7 +23,7 @@ export default function Desc() {
             </div>
             <div id="item2" className="carousel-item w-full">
               <Image
-                src="https://images.unsplash.com/photo-1712603257810-9cbe9dfec9cd?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="/Home2.avif"
                 alt="Carousel Image 2"
                 className="w-full object-cover"
                 width={4500}
@@ -32,7 +32,7 @@ export default function Desc() {
             </div>
             <div id="item3" className="carousel-item w-full">
               <Image
-                src="https://images.unsplash.com/photo-1722267432520-24755f9e218d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="/Home3.avif"
                 alt="Carousel Image 3"
                 className="w-full object-cover"
                 width={4500}
@@ -41,7 +41,7 @@ export default function Desc() {
             </div>
             <div id="item4" className="carousel-item w-full">
               <Image
-                src="https://images.unsplash.com/photo-1683871287535-c6197104f402?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="/Home4.avif"
                 alt="Carousel Image 4"
                 className="w-full object-cover"
                 width={4550}

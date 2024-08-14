@@ -28,7 +28,7 @@ export default async function Product() {
               id="item1"
               className="carousel-item w-full relative top-0 left-0 ">
               <Image
-                src="https://images.unsplash.com/photo-1655992117139-54d5e9068ec0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="/Product1.avif"
                 width={2880}
                 height={1100}
                 alt="Carousel-1"
@@ -38,7 +38,7 @@ export default async function Product() {
             </div>
             <div id="item2" className="carousel-item w-full relative">
               <Image
-                src="https://images.unsplash.com/photo-1638826596253-45c356e832bf?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="/Product2.avif"
                 width={2880}
                 height={1100}
                 alt="Carousel-2"
@@ -49,7 +49,7 @@ export default async function Product() {
             </div>
             <div id="item3" className="carousel-item w-full relative">
               <Image
-                src="https://images.unsplash.com/photo-1683871297435-10ec1e7a8a4d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="/Product3.avif"
                 width={2880}
                 height={1100}
                 alt="Carousel-3"

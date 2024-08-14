@@ -8,7 +8,7 @@ function Opening() {
     <section id="hero" className="w-full h-screen  self-center overflow-hidden">
       <Image
         className="top-0 left-0 fixed object-cover"
-        src="https://images.unsplash.com/photo-1511044568932-338cba0ad803?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        src="/Landing.avif"
         alt="/"
         fill={true}
       />
